@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_line_graph"
+        android:title="Line Graph"
+        app:showAsAction="never"></item>
+
+    <item
+        android:id="@+id/action_bar_graph"
+        android:title="Bar Graph"
+        app:showAsAction="never"></item>
+
+    <item
+        android:id="@+id/action_points_graph"
+        android:title="Points Graph"
+        app:showAsAction="never"></item>
+
+</menu>
